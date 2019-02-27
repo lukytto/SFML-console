@@ -1,0 +1,5 @@
+﻿  ConsoleApplication14.cpp
+  console.cpp
+c:\users\goda\source\repos\consoleapplication14\consoleapplication14\console.cpp(56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleApplication14.vcxproj -> C:\Users\Goda\source\repos\ConsoleApplication14\Debug\ConsoleApplication14.exe
